@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
 -->
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+### Github Stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MF853&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF853&theme=tokyonight" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MF853&theme=tokyonight" alt="MF853" />
+
+### Trophies:
+
+<img src="https://github-profile-trophy.vercel.app/?username=MF853&theme=tokyonight" alt="adrielestoller" />
