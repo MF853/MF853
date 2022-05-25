@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MF853&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF853&theme=tokyonight" />
-
+<!---
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MF853&theme=tokyonight" alt="MF853" />
 
 ### Trophies:
 
-<img src="https://github-profile-trophy.vercel.app/?username=MF853&theme=tokyonight" alt="adrielestoller" />
+<img src="https://github-profile-trophy.vercel.app/?username=MF853&theme=tokyonight" alt="MF853" />
+--->
