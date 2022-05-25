@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <div>
-  <a href ="http://beacons.ai/MF853">
-    <img height="180cm" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MF853=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-">
-</div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MF853=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
