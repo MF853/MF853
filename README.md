@@ -43,5 +43,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/josé-mário-da-silva-filho-27b627218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![snake gif](https://github.com/MF853/MF853/blob/output/github-contribution-grid-snake.gif)
- 
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 </div>
