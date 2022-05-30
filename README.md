@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="assets/ProfileGIF-ForGit.png">-->
-  ![ProfileGIF-ForGit](https://user-images.githubusercontent.com/60543170/171049308-7ef909f3-3b2f-47cf-b13e-62f479f30f20.gif)
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="assets/ProfileGIF-ForGit.png">
 
 </div>
   ##
