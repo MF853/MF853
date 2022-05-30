@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" src="https://drive.google.com/file/d/1sz7IF8f2yvGR1zW_-3CRSlXkTGagJWd6/view?usp=sharing" alt="pic" height="150" style="border-radius:50px;">
+  <img align="right" src="https://drive.google.com/uc?export=view&id=<1sz7IF8f2yvGR1zW_-3CRSlXkTGagJWd6>" alt="Profile_GIF" height="150" style="border-radius:50px;">
 </div>
   ##
 <div> 
