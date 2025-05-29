@@ -1,6 +1,6 @@
 ### José Mário
-
 #### Computer Engineering Undergraduate (UPE)
+---
 
 <div align="center">
   <a href="https://github.com/MF853">
