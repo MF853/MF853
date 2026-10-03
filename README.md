@@ -2,49 +2,7 @@
 
 **Computer Engineering student at UPE · Technical background in Digital Game Programming**
 
-I enjoy understanding how things work and finding practical ways to solve problems. My projects span software, data analysis, and embedded systems—from games built during technical school to applications that connect information, people, and devices.
-
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-m%C3%A1rio-da-silva-filho/) · [Explore my repositories](https://github.com/MF853?tab=repositories)
-
-## What I’m working on
-
-- **At Meltech Tecnologia:** contributing to web applications, business dashboards, and systems integrations as a Systems Development Intern.
-- **At university:** exploring embedded systems, data analysis, and neural networks, including a project to forecast hydroelectric inflows.
-- **In personal projects:** experimenting with tools and improving things I use, from desktop extensions to automation scripts.
-
-I use Codex and Claude to support research, implementation, and review, while working to understand the decisions and validate the results.
-
-## Where I started
-
-My foundation in programming comes from the Digital Game Programming course at **ETE Cícero Dias / NAVE (2019–2021)**. I started with C# and Unity, building games and learning through mechanics, interactions, and iteration.
-
-**Kumari Expedition**, developed during that period, brings together Brazilian folklore and an environmental theme. It remains an important part of my journey into computing.
-
-## Selected projects
-
-| Project | What it explores | Technologies |
-| --- | --- | --- |
-| [Kumari Expedition](https://github.com/MF853/KumariExpedition_Game) | A puzzle game inspired by Brazilian folklore, developed during technical school. | C#, Unity |
-| [Calango-Tech](https://github.com/MF853/Calango-Tech) | Controlling a tracked vehicle with an Xbox controller and an ESP32. | ESP32, Bluetooth, motor control |
-| [ClinicApp](https://github.com/MF853/ClinicApp) | A clinical application in development, with a web interface, API, and background worker. | React, NestJS, PostgreSQL, Prisma |
-| [Rocket Corp Backend](https://github.com/MF853/Rocketcorp-BackEnd) | A team project from Rocket Lab, with authentication, role-based access, and AI-assisted summaries. | TypeScript, NestJS, PostgreSQL, Gemini API |
-| [Products Scraping](https://github.com/MF853/Products_Scraping) | Collecting product prices from online stores and exporting them to spreadsheets. | Python, Selenium, BeautifulSoup, openpyxl |
-
-My repositories also include coursework, early exercises, prototypes, and forks. They document different stages of my learning; the selection above is a starting point.
-
-## Tools I’ve worked with
-
-- **Software and web:** Java / Spring Boot, TypeScript / JavaScript, React / Next.js, Node.js / NestJS.
-- **Data and infrastructure:** Python, SQL / PostgreSQL, Git, Docker, Linux.
-- **Games and embedded systems:** C#, Unity, C / C++, ESP32.
-
-## Learning through teaching
-
-I volunteered as a programming instructor with **Programauto**, teaching programming logic and C. I have also worked as a teaching assistant in Digital Electronics, Electrical Circuits, game programming, and English.
-
-Explaining a concept, investigating an unexpected result, and building something useful are all part of how I learn.
-
-## GitHub activity
+I enjoy understanding how things work and using technology to solve practical problems. My background spans software, games, and embedded systems, and I’m currently a Systems Development Intern at Meltech Tecnologia.
 
 <div align="center">
   <a href="https://github.com/MF853">
@@ -52,5 +10,44 @@ Explaining a concept, investigating an unexpected result, and building something
     <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF853&layout=compact&theme=tokyonight" />
   </a>
 </div>
+
+## Technologies I’ve worked with
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="36" height="36" />
+</p>
+
+**Languages:** C, C++, C#, Python, Java, JavaScript, TypeScript, HTML & CSS.  
+**Frameworks & tools:** Unity, Vue.js, React, Next.js, Node.js, NestJS, Spring Boot, PostgreSQL, Prisma, Git, Docker & Linux.  
+**Hardware:** ESP32.
+
+## Areas of interest
+
+- Practical problem-solving, automation, and systems integration
+- Embedded systems, electronics, and robotics
+- Data analysis and artificial intelligence
+- Game development and programming education
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-m%C3%A1rio-da-silva-filho/)
 
 ![Contribution snake animation](https://github.com/MF853/MF853/blob/output/github-contribution-grid-snake.svg)
