@@ -43,3 +43,14 @@ My repositories also include coursework, early exercises, prototypes, and forks.
 I volunteered as a programming instructor with **Programauto**, teaching programming logic and C. I have also worked as a teaching assistant in Digital Electronics, Electrical Circuits, game programming, and English.
 
 Explaining a concept, investigating an unexpected result, and building something useful are all part of how I learn.
+
+## GitHub activity
+
+<div align="center">
+  <a href="https://github.com/MF853">
+    <img height="150" alt="José Mário’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MF853&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MF853&layout=compact&theme=tokyonight" />
+  </a>
+</div>
+
+![Contribution snake animation](https://github.com/MF853/MF853/blob/output/github-contribution-grid-snake.svg)
