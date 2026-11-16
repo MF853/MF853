@@ -50,4 +50,4 @@ I enjoy understanding how things work and using technology to solve practical pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-m%C3%A1rio-da-silva-filho/)
 
-![Contribution snake animation](https://github.com/MF853/MF853/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake animation](https://raw.githubusercontent.com/MF853/MF853/output/github-contribution-grid-snake.svg)
