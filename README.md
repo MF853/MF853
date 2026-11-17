@@ -5,7 +5,10 @@
 I enjoy understanding how things work and using technology to solve practical problems. My background spans software, games, and embedded systems, and I’m currently a Systems Development Intern at Meltech Tecnologia.
 
 <div align="center">
-  <img alt="José Mário’s GitHub metrics" src="https://raw.githubusercontent.com/MF853/MF853/output/github-metrics.svg" />
+  <a href="https://github.com/MF853">
+    <img height="150" alt="José Mário’s GitHub stats" src="https://github-stats-extended.vercel.app/api?username=MF853&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    <img height="150" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MF853&layout=compact&theme=tokyonight" />
+  </a>
 </div>
 
 ## Technologies I’ve worked with
